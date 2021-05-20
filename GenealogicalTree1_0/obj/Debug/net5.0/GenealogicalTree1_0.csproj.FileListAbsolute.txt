@@ -1,0 +1,16 @@
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\GenealogicalTree1_0\bin\Debug\net5.0\GenealogicalTree1_0.exe
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\GenealogicalTree1_0\bin\Debug\net5.0\GenealogicalTree1_0.deps.json
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\GenealogicalTree1_0\bin\Debug\net5.0\GenealogicalTree1_0.runtimeconfig.json
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\GenealogicalTree1_0\bin\Debug\net5.0\GenealogicalTree1_0.runtimeconfig.dev.json
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\GenealogicalTree1_0\bin\Debug\net5.0\GenealogicalTree1_0.dll
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\GenealogicalTree1_0\bin\Debug\net5.0\ref\GenealogicalTree1_0.dll
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\GenealogicalTree1_0\bin\Debug\net5.0\GenealogicalTree1_0.pdb
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\GenealogicalTree1_0\obj\Debug\net5.0\GenealogicalTree1_0.csprojAssemblyReference.cache
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\GenealogicalTree1_0\obj\Debug\net5.0\GenealogicalTree1_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\GenealogicalTree1_0\obj\Debug\net5.0\GenealogicalTree1_0.AssemblyInfoInputs.cache
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\GenealogicalTree1_0\obj\Debug\net5.0\GenealogicalTree1_0.AssemblyInfo.cs
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\GenealogicalTree1_0\obj\Debug\net5.0\GenealogicalTree1_0.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\GenealogicalTree1_0\obj\Debug\net5.0\GenealogicalTree1_0.dll
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\GenealogicalTree1_0\obj\Debug\net5.0\ref\GenealogicalTree1_0.dll
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\GenealogicalTree1_0\obj\Debug\net5.0\GenealogicalTree1_0.pdb
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\GenealogicalTree1_0\obj\Debug\net5.0\GenealogicalTree1_0.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\ConsolePyramid\bin\Debug\net5.0\ConsolePyramid.exe
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\ConsolePyramid\bin\Debug\net5.0\ConsolePyramid.deps.json
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\ConsolePyramid\bin\Debug\net5.0\ConsolePyramid.runtimeconfig.json
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\ConsolePyramid\bin\Debug\net5.0\ConsolePyramid.runtimeconfig.dev.json
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\ConsolePyramid\bin\Debug\net5.0\ConsolePyramid.dll
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\ConsolePyramid\bin\Debug\net5.0\ref\ConsolePyramid.dll
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\ConsolePyramid\bin\Debug\net5.0\ConsolePyramid.pdb
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\ConsolePyramid\obj\Debug\net5.0\ConsolePyramid.csprojAssemblyReference.cache
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\ConsolePyramid\obj\Debug\net5.0\ConsolePyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\ConsolePyramid\obj\Debug\net5.0\ConsolePyramid.AssemblyInfoInputs.cache
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\ConsolePyramid\obj\Debug\net5.0\ConsolePyramid.AssemblyInfo.cs
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\ConsolePyramid\obj\Debug\net5.0\ConsolePyramid.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\ConsolePyramid\obj\Debug\net5.0\ConsolePyramid.dll
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\ConsolePyramid\obj\Debug\net5.0\ref\ConsolePyramid.dll
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\ConsolePyramid\obj\Debug\net5.0\ConsolePyramid.pdb
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\ConsolePyramid\obj\Debug\net5.0\ConsolePyramid.genruntimeconfig.cache

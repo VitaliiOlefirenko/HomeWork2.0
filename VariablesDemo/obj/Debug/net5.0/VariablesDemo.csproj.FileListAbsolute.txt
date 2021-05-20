@@ -1,0 +1,16 @@
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\VariablesDemo\bin\Debug\net5.0\VariablesDemo.exe
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\VariablesDemo\bin\Debug\net5.0\VariablesDemo.deps.json
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\VariablesDemo\bin\Debug\net5.0\VariablesDemo.runtimeconfig.json
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\VariablesDemo\bin\Debug\net5.0\VariablesDemo.runtimeconfig.dev.json
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\VariablesDemo\bin\Debug\net5.0\VariablesDemo.dll
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\VariablesDemo\bin\Debug\net5.0\ref\VariablesDemo.dll
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\VariablesDemo\bin\Debug\net5.0\VariablesDemo.pdb
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\VariablesDemo\obj\Debug\net5.0\VariablesDemo.csprojAssemblyReference.cache
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\VariablesDemo\obj\Debug\net5.0\VariablesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\VariablesDemo\obj\Debug\net5.0\VariablesDemo.AssemblyInfoInputs.cache
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\VariablesDemo\obj\Debug\net5.0\VariablesDemo.AssemblyInfo.cs
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\VariablesDemo\obj\Debug\net5.0\VariablesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\VariablesDemo\obj\Debug\net5.0\VariablesDemo.dll
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\VariablesDemo\obj\Debug\net5.0\ref\VariablesDemo.dll
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\VariablesDemo\obj\Debug\net5.0\VariablesDemo.pdb
+C:\Users\Vitalii\source\repos\GenealogicalTree1_0\VariablesDemo\obj\Debug\net5.0\VariablesDemo.genruntimeconfig.cache
